@@ -1,5 +1,4 @@
 node_module/
 *.txt
 !a.txt
-!file-bug.txt
 js/
