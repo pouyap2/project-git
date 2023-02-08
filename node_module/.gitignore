@@ -1,5 +1,0 @@
-node_module/
-*.txt
-!a.txt
-js/
-!file-true.txt
